@@ -1,0 +1,5 @@
+Student_Cluster,Segment,broj_studenata,prosjecni_ai_sati,prosjecna_promjena_gpa,prosjecni_retention,prosjecna_ai_zavisnost,prosjecna_anksioznost,visoki_burnout_proc,prosjecni_risk_index
+0,Tradicionalni učenici,14899,5.182,0.078,70.563,2.792,3.595,17.068,0.237
+1,Umjereni korisnici,13965,9.394,0.272,77.667,4.257,5.706,27.963,0.342
+2,Produktivni sweet spot,15422,4.403,0.294,82.254,2.409,2.937,12.858,0.17
+3,Rizična AI zavisnost,5714,25.393,0.117,67.458,6.488,6.126,70.984,0.545

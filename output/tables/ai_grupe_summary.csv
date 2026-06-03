@@ -1,0 +1,5 @@
+AI_Usage_Group,broj_studenata,prosjecna_promjena_gpa,prosjecni_retention,prosjecna_ai_zavisnost,prosjecna_anksioznost,visoki_burnout_proc,prosjecni_risk_index
+0-2h,10740,0.188,75.602,2.451,3.809,8.901,0.193
+2-6h,14840,0.204,76.361,2.841,3.895,12.702,0.222
+6-12h,12316,0.229,77.128,3.482,4.233,22.751,0.277
+12h+,12104,0.189,73.929,5.279,5.179,56.543,0.436
